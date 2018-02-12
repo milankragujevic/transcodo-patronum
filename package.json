@@ -1,0 +1,23 @@
+{
+  "name": "transcodo-patronum",
+  "version": "0.0.1",
+  "description": "FFmpeg-based Transcoding service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milankragujevic/transcodo-patronum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milankragujevic/transcodo-patronum/issues"
+  },
+  "homepage": "https://github.com/milankragujevic/transcodo-patronum#readme",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "prism-media": "^0.1.0"
+  }
+}
